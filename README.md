@@ -1,6 +1,6 @@
 # ⚡ UptimeCord
 
-<img width="491" height="637" alt="image" src="https://github.com/user-attachments/assets/b4e20301-67ee-4357-a90f-40bb24c1698a" />
+<img width="911" height="545" alt="image" src="https://github.com/user-attachments/assets/7981cfe3-eb32-4a8f-aa3a-43a4fb1e54be" />
 
 Real-time server uptime monitoring with Discord webhook integration.
 
