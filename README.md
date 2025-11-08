@@ -1,5 +1,7 @@
 # ⚡ UptimeCord
 
+<img width="491" height="637" alt="image" src="https://github.com/user-attachments/assets/b4e20301-67ee-4357-a90f-40bb24c1698a" />
+
 Real-time server uptime monitoring with Discord webhook integration.
 
 ## Features
@@ -77,4 +79,9 @@ Provides utility functions for formatting durations, calculating statistics, and
 ## Credits
 
 Made with ❤️ by [R](https://github.com/rishabnotfound)
+
 [GitHub Repository](https://github.com/rishabnotfound/UptimeCord)
+
+## License
+
+MIT License - See LICENSE file for details
